@@ -17,7 +17,7 @@ __Il est fortement conseillé d'employer une distribution Kali__ (on ne pourra p
 * Exploration des fonctionnalités de management dans 802.11
 
 
-# La magie de capture de trafic WiFi
+# La magie de la capture de trafic WiFi
 
 A difference d'autres laboratoires que vous avez fait dans le passé, il peut être difficile de faire vos propres captures quand il s'agit de WiFi, à cause de différentes raisons. Le problème principal c'est la carence de drivers Windows capables de capturer des trames ou niveau 802.11. Le mode "promiscuous", utile pour Ethernet, ne fonctionne pas pour WiFi.
 
